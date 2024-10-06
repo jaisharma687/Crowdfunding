@@ -50,11 +50,3 @@ The contract inherits from the `ERC20` contract provided by the OpenZeppelin lib
 4. Contributors can contribute funds to campaigns using the `contribute` function.
 5. Campaign owners can withdraw funds using the `withdrawFunds` function if the campaign is successful.
 6. Contributors can request refunds using the `refund` function if the campaign is unsuccessful.
-
-## License
-
-This contract is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Disclaimer
-
-This contract is provided as-is without any warranty. Use it at your own risk.
