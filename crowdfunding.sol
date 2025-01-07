@@ -110,4 +110,5 @@ contract MyToken is ERC20, Ownable {
         campaign.amountCollected -= amount;
         campaign.donations[i] = 0;
     }
+    
 }
